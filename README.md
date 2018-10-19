@@ -1,2 +1,3 @@
-# simple-demo
-This is a simple first reporsity file
+# simple - example repository
+
+This is a simple file that we make
