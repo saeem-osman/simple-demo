@@ -1,1 +1,5 @@
 This is new file create to test the staging area
+
+//A lot online about this.. Medium/phantomjs#730
+npm install phantomjs-prebuilt@2.1.16 --ignore-scripts does fix the problem
+https://gerrit.openbmc-project.xyz/#/c/8987/2
